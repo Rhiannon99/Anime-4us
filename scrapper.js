@@ -1,5 +1,5 @@
-const URL = "https://www1.gogoanime.cm";
-const SEARCH = "https://www1.gogoanime.cm//search.html?keyword";
+const URL = "https://gogoplay1.com";
+const SEARCH = "https://gogoplay1.com//search.html?keyword";
 
 const options = {
   headers: {
